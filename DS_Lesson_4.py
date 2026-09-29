@@ -26,3 +26,5 @@ print("Maths: ", maths)
 print("Kiswahili: ", kiswa)
 print("Total Marks: ", total)
 print("Garde: ", garde)
+
+print("Testing the changes")
